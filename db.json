@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple iPhone 15 Pro",
+      "price": 999,
+      "url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Fone de Ouvido Sony WH-1000XM5",
+      "price": 398,
+      "url": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "3",
+      "name": "Nintendo Switch OLED",
+      "price": 349.99,
+      "url": "https://http2.mlstatic.com/D_NQ_NP_715776-MLA99972881871_112025-O.webp"
+    },
+    {
+      "id": "4",
+      "name": "Amazon Echo Dot (5ª Geração)",
+      "price": 49.99,
+      "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "5",
+      "name": "Mouse Sem Fio Logitech MX Master 3S",
+      "price": 99.99,
+      "url": "https://http2.mlstatic.com/D_NQ_NP_2X_748742-MLA103652475421_012026-F.webp"
+    },
+    {
+      "name": "Miniatura de typhus the traveller",
+      "price": 300,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmlP0zwthBjI1XGMb4kpRPQxoPWDvlhPcZHJyo-FlBg&s=10",
+      "id": "u5v0mGlJzo0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
