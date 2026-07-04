@@ -2,6 +2,8 @@ Projeto E-Commerce Digital
 
 Documentacao do projeto de e-commerce desenvolvido com React e Vite.
 
+Para estilisar o projeto eu usei ia(Mais especifico usei o antyGravity o agente era o Gemini 3.1 (high)) pois sou ruim e não gosto de estilisar <3
+
 1. Uso do useContext
 import {createContext, useState} from 'react'
 
